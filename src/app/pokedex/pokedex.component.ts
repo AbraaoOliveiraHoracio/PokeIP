@@ -50,7 +50,7 @@ export class PokedexComponent {
     });
   }
   toggleDarkMode() {
-    const body = document.getElementsByName('CC')[0];
+    const body = document.getElementsByName('TT')[0];
     const body1 = document.getElementsByName('QQ')[0];
     body.classList.toggle('dark-mode');
     body1.classList.toggle('dark-mode');
