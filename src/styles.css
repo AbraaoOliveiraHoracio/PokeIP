@@ -1,4 +1,3 @@
-
 dark-mode-button {
   position: absolute;
   top: 10px;
@@ -14,17 +13,17 @@ body {
 }
 
 .dark-mode {
-  background-color: black;
+  background-color: #706e6e;
   color: white;
 }
 
 .dark-mode .card {
-  background-color: #212121;
+  background-color: #706e6e;
   color: white;
 }
 
 .dark-mode .card-header {
-  background-color: #212121;
+  background-color: #706e6e;
   border-color: white;
 }
 
@@ -34,27 +33,27 @@ body {
 }
 
 .dark-mode .list-group-item {
-  background-color: #212121;
-  color: white;
+  background-color: #9e9c9c;
+  color: rgb(255, 255, 255);
 }
 
 .dark-mode .list-group-item.active {
-  background-color: #444;
-  color: white;
+  background-color: #9e9c9c;
+  color: rgb(255, 255, 255);
 }
 
 .dark-mode .form-control {
-  background-color: #333;
+  background-color: #9e9c9c;
   color: white;
 }
 
 .dark-mode .form-control:focus {
-  background-color: #555;
+  background-color: #9e9c9c;
   color: white;
   border-color: white;
 }
 
 .dark-mode .dark-mode-button {
-  color: white;
-  border-color: white;
+  background-color: #9e9c9c;
+  color: rgb(255, 255, 255);
 }
