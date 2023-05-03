@@ -33,27 +33,27 @@ body {
 }
 
 .dark-mode .list-group-item {
-  background-color: #9e9c9c;
+  background-color: #706e6e;
   color: rgb(255, 255, 255);
 }
 
 .dark-mode .list-group-item.active {
-  background-color: #9e9c9c;
+  background-color: #706e6e;
   color: rgb(255, 255, 255);
 }
 
 .dark-mode .form-control {
-  background-color: #9e9c9c;
+  background-color: #706e6e;
   color: white;
 }
 
 .dark-mode .form-control:focus {
-  background-color: #9e9c9c;
+  background-color: #706e6e;
   color: white;
   border-color: white;
 }
 
 .dark-mode .dark-mode-button {
-  background-color: #9e9c9c;
+  background-color: #706e6e;
   color: rgb(255, 255, 255);
 }
