@@ -1,0 +1,59 @@
+dark-mode-button {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+.dark-mode-button:hover {
+  color: white;
+}
+
+body {
+  transition: all 0.3s ease;
+}
+
+.dark-mode {
+  background-color: black;
+  color: white;
+}
+
+.dark-mode .card {
+  background-color: #212121;
+  color: white;
+}
+
+.dark-mode .card-header {
+  background-color: #212121;
+  border-color: white;
+}
+
+.dark-mode .badge {
+  color: white;
+  background-color: #444;
+}
+
+.dark-mode .list-group-item {
+  background-color: #212121;
+  color: white;
+}
+
+.dark-mode .list-group-item.active {
+  background-color: #444;
+  color: white;
+}
+
+.dark-mode .form-control {
+  background-color: #333;
+  color: white;
+}
+
+.dark-mode .form-control:focus {
+  background-color: #555;
+  color: white;
+  border-color: white;
+}
+
+.dark-mode .dark-mode-button {
+  color: white;
+  border-color: white;
+}
